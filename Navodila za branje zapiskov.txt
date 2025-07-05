@@ -1,0 +1,13 @@
+*Navodila za branje zapiskov*
+
+Če se odstavek začne brez presledka v stilu
+
+[začetek odstavka],
+
+je ista tema. Če se odstavek začne s presledkom v stilu
+
+        [začetek odstavka],
+
+je nova tema.
+
+Se opravičujem če se kje malo slabo vidi. Srečno.
