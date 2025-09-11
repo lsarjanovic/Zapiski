@@ -11,3 +11,5 @@ je ista tema. Če se odstavek začne s presledkom v stilu
 je nova tema.
 
 Se opravičujem če se kje malo slabo vidi. Srečno.
+
+Additional: ODV zapiski 1. del se ne load-a, vendar se lahko download-a.
