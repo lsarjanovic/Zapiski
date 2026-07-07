@@ -12,4 +12,5 @@ je nova tema.
 
 Se opravičujem če se kje malo slabo vidi. Srečno.
 
-Additional: ODV zapiski 1. del se ne load-a, vendar se lahko download-a.
+Additional: ODV zapiski 1. del se ne load-a, vendar se lahko download-a. Če se zdi
+kaj narobe, preveri.
